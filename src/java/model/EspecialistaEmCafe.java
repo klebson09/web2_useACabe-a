@@ -7,7 +7,7 @@ import java.util.*;
 
 /*
  Aqui está nosso sofisticado e inteligente sistema baseado 
-em regras que dá conselhos sobre café:
+em regras que dá conselhos sobre café
 */
 public class EspecialistaEmCafe {
     
